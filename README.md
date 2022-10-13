@@ -3,12 +3,12 @@
 - 🌱 I’m a student @ <a href="https://www.42lisboa.com" target="_blank">42 Lisboa.</a>
 - 📫 How to reach me gabrieldealmeidatorres@gmail.com
 
-![Codewars](https://github.r2v.ch/codewars?user=gade-alm&name=true&top_languages=true&stroke=%23BB432C)
+Code Wars:
+<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=gade-alm&card&colormode=dark_mode"> </a>
+
 
 <!---
 code-wars: 
-<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=gade-alm&card&colormode=dark_mode"> </a>
-
 gade-alm/gade-alm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
