@@ -4,7 +4,7 @@
 - 📫 How to reach me gabrieldealmeidatorres@gmail.com
 
 <b>Code Wars:</b> <br>
-<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=gade-alm&card&colormode=dark_mode"> </a>
+![Codewars](https://github.r2v.ch/codewars?user=gade-alm&stroke=%23BB432C)
 
 
 <!---
