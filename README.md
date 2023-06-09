@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gabriel Torres.
-- 👀 I’m interested in C, HTML and CSS.
+- 👀 I’m learning C, C++ and Q.A.
 - 🌱 I’m a student @ <a href="https://www.42lisboa.com" target="_blank">42 Lisboa.</a>
+- 💼 Connect with me on: https://www.linkedin.com/in/gabriel-de-a-torres/
 - 📫 How to reach me gabrieldealmeidatorres@gmail.com
 
 <b>Code Wars:</b> <br>
